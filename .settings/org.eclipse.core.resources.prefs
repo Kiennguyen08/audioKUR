@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/tsos/iu/equalizer/effects/Effect.java=UTF-8
+encoding//src/tsos/iu/equalizer/equalizer/Equalizer.java=UTF-8
+encoding//src/tsos/iu/equalizer/gui/FXMLDocumentController.java=UTF-8
+encoding//src/tsos/iu/equalizer/player/AudioFileFormat.java=UTF-8
+encoding//src/tsos/iu/equalizer/player/AudioOutputStream.java=UTF-8
+encoding//src/tsos/iu/equalizer/player/AudioPlayer.java=UTF-8
+encoding//src/tsos/iu/equalizer/player/FFT.java=UTF-8
+encoding//src/tsos/iu/equalizer/player/ReadMusicFile.java=UTF-8

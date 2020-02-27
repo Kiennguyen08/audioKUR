@@ -1,0 +1,109 @@
+.root {
+     -fx-background-color: #121212;
+}
+
+.button {
+    -fx-text-fill: black;
+    -fx-font-size: 15px;
+    -fx-font-family: "Ubuntu";
+    -fx-background-color: #BB86FC;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0, 0 , 0 , 0 );
+}
+.button:hover {
+ -fx-background-color: linear-gradient(#f8f4ff, #fff0f5);
+ }
+
+.label {
+    -fx-font-size: 18px;
+    -fx-text-fill: #FFFFFF;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,0 );
+}
+
+#hello {
+    -fx-font-size: 25;
+    -fx-font-family: "Ubuntu";
+    -fx-text-fill: #FFFFFF;
+}
+
+#choose_coefficient {
+    -fx-font-size: 22;
+    -fx-font-family: "Roboto";
+    -fx-text-fill: #FFFFFF;
+    -fx-background-color: #1F1B24;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+    -fx-border-radius: 10 10 10 10;
+  	-fx-background-radius: 10 10 10 10;
+
+} 
+#Please {
+    -fx-font-size: 18;
+    -fx-font-family: "PT Serif";
+    -fx-text-fill: #FFFFFF;
+}
+#choose_effect {
+    -fx-font-size: 20;
+    -fx-font-family: "Ubuntu";
+    -fx-text-fill: #FFFFFF;
+}
+#choose_coefficient0{
+    -fx-font-size: 14;
+    -fx-font-family: "PT Serif";
+    -fx-text-fill: #FFFFFF;
+    
+ 
+}
+#choose_coefficient1{
+    -fx-font-size: 14;
+    -fx-font-family: "PT Serif";
+    -fx-text-fill: #FFFFFF;
+    
+  
+}
+#choose_coefficient2{
+    -fx-font-size: 14;
+    -fx-font-family: "PT Serif";
+    -fx-text-fill: #FFFFFF;
+    
+   
+}
+#choose_coefficient3{
+    -fx-font-size: 14;
+    -fx-font-family: "PT Serif";
+    -fx-text-fill: #FFFFFF;
+    
+   
+}
+#choose_coefficient4{
+    -fx-font-size: 14;
+    -fx-font-family: "PT Serif";
+    -fx-text-fill: #FFFFFF;
+    
+    
+}
+#choose_coefficient5{
+    -fx-font-size: 14;
+    -fx-font-family: "PT Serif";
+    -fx-text-fill: #FFFFFF;
+    
+  
+}
+#textBox{
+	-fx-text-fill: #FFFFFF;
+}
+#buttonPlot{
+	-fx-text-fill: #FFFFFF;
+}
+#chart1, #chart2{
+	-fx-text-fill: #FFFFFF;
+	
+	
+}
+#hBox2{
+	-fx-background-color: #1F1B24;
+	-fx-border-radius: 10 10 10 10;
+  	-fx-background-radius: 10 10 10 10;
+	 
+}
+
+
+
